@@ -32,7 +32,7 @@ This repository contains my **Electrical Engineering 4th-year final project**, w
    git clone https://github.com/RotemTsalisher/AudioDSPFinalProject.git
    ```
 2. Navigate to the desired module (`EQ`, `Room Simulation`, `Neural Networks - Music Genre Classification`).
-3. Follow the instructions in the respective subfolders to run the code.
+3. Open on MATLAB to navigate through the code and see the different functions inplementation
 
 ## Author
 **Rotem Tsalisher**
